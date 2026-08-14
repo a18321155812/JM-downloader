@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 暴露 App 私有目录下的 downloads 子目录，供其他应用读取下载的文件 -->
+    <files-path name="downloads" path="downloads/" />
+    <files-path name="downloads_tmp" path="downloads/.tmp/" />
+</paths>

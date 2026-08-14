@@ -1,0 +1,41 @@
+# ===== Gradle / 构建产物 =====
+.gradle/
+build/
+**/build/
+build_v222/
+**/build_v222/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ===== 本机配置 =====
+local.properties
+
+# ===== IDE =====
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# ===== Python (Chaquopy) =====
+__pycache__/
+*.py[cod]
+*.pyo
+.python/
+
+# ===== 签名 / 密钥 =====
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+key.properties
+
+# ===== APK 构建输出（发布走 GitHub Releases） =====
+*.apk
+*.aab
+*.ap_
+
+# ===== 日志 / 系统 =====
+*.log
+.DS_Store
+Thumbs.db
