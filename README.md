@@ -1,5 +1,7 @@
 # JM Downloader（禁漫天堂 安卓独立版）
 
+> 📚 **全版本演进**：本仓库是安卓端最新版；想看从 Python 脚本一路演进到独立 App 的完整开发历程（电脑端 + 安卓端并行），见 [JM-downloader-versions](https://github.com/a18321155812/JM-downloader-versions)。
+
 基于 [jmcomic](https://github.com/hect0x7/JMComic-Crawler-Python) 的 Android 下载器，通过 **Chaquopy** 把 Python 运行时内嵌进 APK，在手机上独立完成禁漫（JMComic）本子的搜索、预览与下载，无需连接电脑。
 
 > ⚠️ **免责声明**
