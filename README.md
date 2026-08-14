@@ -55,7 +55,7 @@ export CHAQUOPY_PYTHON=/usr/bin/python3
 
 ## 发布说明
 
-- 预编译 APK 请到 [Releases](https://github.com/jm-downloader/jm-downloader/releases) 页面下载。
+- 预编译 APK 请到 [Releases](https://github.com/a18321155812/JM-downloader/releases) 页面下载。
 - 源码仓库**不包含** APK 与任何已下载内容。
 
 ## License
